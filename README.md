@@ -1,3 +1,2 @@
-# hello-world
-此存储库用于练习 GitHub 流
-这是在分支做的修改
+# NHI Interface
+这是NHI Interface的代码
